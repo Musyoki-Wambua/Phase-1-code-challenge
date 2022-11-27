@@ -1,0 +1,22 @@
+{
+  "name": "phase-1-code-challenge",
+  "version": "1.0.0",
+  "description": "code-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musyoki-Wambua/Phase-1-code-challenge.git"
+  },
+  "keywords": [
+    "code-challenge"
+  ],
+  "author": "Musyoki Wambua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musyoki-Wambua/Phase-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/Musyoki-Wambua/Phase-1-code-challenge#readme"
+}
